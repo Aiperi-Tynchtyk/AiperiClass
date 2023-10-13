@@ -4,6 +4,10 @@ public class AiperiClass {
     public static void main(String[] args) {
         System.out.println("hello guys");
 
+        System.out.println("hello Aiperi I got you project");
+
+        // Aiperi Hello
+
 
         // i want to use for loop
         String word="apple";
@@ -12,6 +16,9 @@ public class AiperiClass {
             reverse+=word.charAt(i);
         }
         System.out.println(reverse);
+
+
+
     }
 
 

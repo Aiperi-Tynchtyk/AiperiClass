@@ -1,6 +1,9 @@
+import java.sql.SQLOutput;
+
 public class AiperiClass {
     public static void main(String[] args) {
         System.out.println("hello guys");
+
 
         // i want to use for loop
         String word="apple";
@@ -9,6 +12,8 @@ public class AiperiClass {
             reverse+=word.charAt(i);
         }
         System.out.println(reverse);
+
+
 
 
     }

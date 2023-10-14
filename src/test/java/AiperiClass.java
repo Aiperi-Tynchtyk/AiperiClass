@@ -16,10 +16,8 @@ public class AiperiClass {
             reverse+=word.charAt(i);
         }
         System.out.println(reverse);
-
-
-
     }
+
 
 
 

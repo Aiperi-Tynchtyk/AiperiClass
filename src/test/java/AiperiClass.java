@@ -8,7 +8,7 @@ public class AiperiClass {
 
         // Aiperi Hello
 
-
+//dsdsdssd
         // i want to use for loop
         String word="apple";
         String reverse="";
@@ -17,7 +17,7 @@ public class AiperiClass {
         }
         System.out.println(reverse);
 
-
+//aimerim aimerim
 
 
 
